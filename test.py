@@ -1,0 +1,1 @@
+cocos new brickBreaker -p com.creapple.brickbreaker -l js

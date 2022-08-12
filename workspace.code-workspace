@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "..\\lecture"
+		}
+	],
+	"settings": {
+		"terminal.integrated.defaultProfile.windows": "Command Prompt"
+	}
+}
